@@ -1,5 +1,7 @@
 # Iris-Flower-Classification
 
+<p align = 'center'><img src = 'logo.jpg', height=350, width =420></p>
+
 ### Table of Contents
 1. [Installation](#installation)
 2. [Project Overview](#project)
@@ -12,7 +14,12 @@ All the librarires required to run the code are mentioned in [requirements.txt](
 
 ## Project Overview<a name="project"></a>
 
-The objective of this project was to train a machine learning model to predict class of Iris flower provided with lengths & widths of the flower.
+It is very basic classification problem which helps understand basic concept of Machine Learning. The objective of this project was to train a machine learning model to predict class of Iris flower provided with lengths & widths of the flower.
+
+Three class for classification are as follows:
+* Iris-setosa
+* Iris-versicolor
+* Iris-virginica
 
 ## File Descriptions <a name="files"></a>
 
