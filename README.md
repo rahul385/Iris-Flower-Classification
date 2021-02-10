@@ -8,7 +8,7 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+All the librarires required to run the code are mentioned in [requirements.txt](https://github.com/rahul385/Iris-Flower-Classification/blob/master/requirements.txt). To install Run: `pip install -r requirements.txt`
 
 ## Project Overview<a name="project"></a>
 
