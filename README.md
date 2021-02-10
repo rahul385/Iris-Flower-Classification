@@ -23,10 +23,11 @@ Three class for classification are as follows:
 
 ## File Descriptions <a name="files"></a>
 
+* `Iris.csv` : The dataset for this project is downloaded from kaggle.com. The data set consists of 150 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample (in centimetres): Length of the sepals Width of the sepals Length of the petals Width of the petals
+
 * `Iris.ipynb` : Jupyter notebook that includes data exploration, code, machine learning model and visualizations
 * `Iris_Profile_Report.html` : Profiling report of the data set
-* `Iris.csv` :csv file containing features of Iris flower
-* Visualizations: Includes all plots generated from the training data
+* `Visualizations`: Includes all plots generated from the training data
    * `Correlation_Heatmap.png` : Correlation heatmap of all features
    * `pairplot.png` : Seaborn pairplot
    * `SepalWidth_Outliers.png` : Outliers detetcted for Sepal Width
@@ -34,9 +35,11 @@ Three class for classification are as follows:
 ## Screenshots
 
   ***Screenshot 1: Correlation Heatmap***
+  
 ![Screenshot 1](https://github.com/rahul385/Iris-Flower-Classification/blob/master/Visualizations/Correlation_Heatmap.png)
 
   ***Screenshot 2: Outliers in Sepal width***
+  
 ![Screenshot 2](https://github.com/rahul385/Iris-Flower-Classification/blob/master/Visualizations/SepalWidth_Outliers.png)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
