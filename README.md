@@ -25,7 +25,15 @@ Three class for classification are as follows:
 
 * `Iris.csv` : The dataset for this project is downloaded from kaggle.com. The data set consists of 150 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample (in centimetres): Length of the sepals Width of the sepals Length of the petals Width of the petals
 
-* `Iris.ipynb` : Jupyter notebook that includes data exploration, code, machine learning model and visualizations
+* `Iris.ipynb` : The jupyter notebook [Iris.ipynb](https://github.com/rahul385/Iris-Flower-Classification/blob/master/Iris.ipynb) includes data exploration, code, machine learning model and visualizations. I used the following classification algorithms to train the model and compared their accuracy.
+  * Logistic Regression
+  * Decision Tree
+  * Random Forest
+  * AdaBoost
+  * XGBoost
+
+I chose XGBoost as the final model for this project. The accuracy score was .977
+  
 * `Iris_Profile_Report.html` : Profiling report of the data set
 * `Visualizations`: Includes all plots generated from the training data
    * `Correlation_Heatmap.png` : Correlation heatmap of all features
