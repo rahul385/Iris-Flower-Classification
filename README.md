@@ -35,6 +35,7 @@ Three class for classification are as follows:
 I chose XGBoost as the final model for this project. The accuracy score was .977
   
 * `Iris_Profile_Report.html` : Profiling report of the data set
+
 * `Visualizations`: Includes all plots generated from the training data
    * `Correlation_Heatmap.png` : Correlation heatmap of all features
    * `pairplot.png` : Seaborn pairplot
