@@ -32,7 +32,7 @@ Three class for classification are as follows:
   * AdaBoost
   * XGBoost
 
-I chose XGBoost as the final model for this project. The accuracy score was .977
+I used XGBoost as the final model for this project. The accuracy score was .977
   
 * `Iris_Profile_Report.html` : Profiling report of the data set
 
